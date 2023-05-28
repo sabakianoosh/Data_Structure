@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\hw6\mg\bin\Debug\net6.0\mg.exe
+C:\Users\USER\Desktop\hw6\mg\bin\Debug\net6.0\mg.deps.json
+C:\Users\USER\Desktop\hw6\mg\bin\Debug\net6.0\mg.runtimeconfig.json
+C:\Users\USER\Desktop\hw6\mg\bin\Debug\net6.0\mg.dll
+C:\Users\USER\Desktop\hw6\mg\bin\Debug\net6.0\mg.pdb
+C:\Users\USER\Desktop\hw6\mg\obj\Debug\net6.0\mg.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\hw6\mg\obj\Debug\net6.0\mg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\hw6\mg\obj\Debug\net6.0\mg.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\hw6\mg\obj\Debug\net6.0\mg.AssemblyInfo.cs
+C:\Users\USER\Desktop\hw6\mg\obj\Debug\net6.0\mg.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\hw6\mg\obj\Debug\net6.0\mg.dll
+C:\Users\USER\Desktop\hw6\mg\obj\Debug\net6.0\refint\mg.dll
+C:\Users\USER\Desktop\hw6\mg\obj\Debug\net6.0\mg.pdb
+C:\Users\USER\Desktop\hw6\mg\obj\Debug\net6.0\mg.genruntimeconfig.cache
+C:\Users\USER\Desktop\hw6\mg\obj\Debug\net6.0\ref\mg.dll

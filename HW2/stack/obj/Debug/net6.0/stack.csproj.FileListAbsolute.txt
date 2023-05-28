@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Ds_HW2\stack\bin\Debug\net6.0\stack.exe
+C:\Users\USER\Desktop\Ds_HW2\stack\bin\Debug\net6.0\stack.deps.json
+C:\Users\USER\Desktop\Ds_HW2\stack\bin\Debug\net6.0\stack.runtimeconfig.json
+C:\Users\USER\Desktop\Ds_HW2\stack\bin\Debug\net6.0\stack.dll
+C:\Users\USER\Desktop\Ds_HW2\stack\bin\Debug\net6.0\stack.pdb
+C:\Users\USER\Desktop\Ds_HW2\stack\obj\Debug\net6.0\stack.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Ds_HW2\stack\obj\Debug\net6.0\stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Ds_HW2\stack\obj\Debug\net6.0\stack.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Ds_HW2\stack\obj\Debug\net6.0\stack.AssemblyInfo.cs
+C:\Users\USER\Desktop\Ds_HW2\stack\obj\Debug\net6.0\stack.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Ds_HW2\stack\obj\Debug\net6.0\stack.dll
+C:\Users\USER\Desktop\Ds_HW2\stack\obj\Debug\net6.0\refint\stack.dll
+C:\Users\USER\Desktop\Ds_HW2\stack\obj\Debug\net6.0\stack.pdb
+C:\Users\USER\Desktop\Ds_HW2\stack\obj\Debug\net6.0\stack.genruntimeconfig.cache
+C:\Users\USER\Desktop\Ds_HW2\stack\obj\Debug\net6.0\ref\stack.dll

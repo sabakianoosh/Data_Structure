@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\DS_HW1\tree\bin\Debug\net6.0\tree.exe
+C:\Users\USER\Desktop\DS_HW1\tree\bin\Debug\net6.0\tree.deps.json
+C:\Users\USER\Desktop\DS_HW1\tree\bin\Debug\net6.0\tree.runtimeconfig.json
+C:\Users\USER\Desktop\DS_HW1\tree\bin\Debug\net6.0\tree.dll
+C:\Users\USER\Desktop\DS_HW1\tree\bin\Debug\net6.0\tree.pdb
+C:\Users\USER\Desktop\DS_HW1\tree\obj\Debug\net6.0\tree.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\DS_HW1\tree\obj\Debug\net6.0\tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\DS_HW1\tree\obj\Debug\net6.0\tree.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\DS_HW1\tree\obj\Debug\net6.0\tree.AssemblyInfo.cs
+C:\Users\USER\Desktop\DS_HW1\tree\obj\Debug\net6.0\tree.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\DS_HW1\tree\obj\Debug\net6.0\tree.dll
+C:\Users\USER\Desktop\DS_HW1\tree\obj\Debug\net6.0\refint\tree.dll
+C:\Users\USER\Desktop\DS_HW1\tree\obj\Debug\net6.0\tree.pdb
+C:\Users\USER\Desktop\DS_HW1\tree\obj\Debug\net6.0\tree.genruntimeconfig.cache
+C:\Users\USER\Desktop\DS_HW1\tree\obj\Debug\net6.0\ref\tree.dll

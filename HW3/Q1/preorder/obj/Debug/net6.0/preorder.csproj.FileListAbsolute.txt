@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\HW3\Q1\preorder\bin\Debug\net6.0\preorder.exe
+C:\Users\USER\Desktop\HW3\Q1\preorder\bin\Debug\net6.0\preorder.deps.json
+C:\Users\USER\Desktop\HW3\Q1\preorder\bin\Debug\net6.0\preorder.runtimeconfig.json
+C:\Users\USER\Desktop\HW3\Q1\preorder\bin\Debug\net6.0\preorder.dll
+C:\Users\USER\Desktop\HW3\Q1\preorder\bin\Debug\net6.0\preorder.pdb
+C:\Users\USER\Desktop\HW3\Q1\preorder\obj\Debug\net6.0\preorder.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\HW3\Q1\preorder\obj\Debug\net6.0\preorder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\HW3\Q1\preorder\obj\Debug\net6.0\preorder.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\HW3\Q1\preorder\obj\Debug\net6.0\preorder.AssemblyInfo.cs
+C:\Users\USER\Desktop\HW3\Q1\preorder\obj\Debug\net6.0\preorder.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\HW3\Q1\preorder\obj\Debug\net6.0\preorder.dll
+C:\Users\USER\Desktop\HW3\Q1\preorder\obj\Debug\net6.0\refint\preorder.dll
+C:\Users\USER\Desktop\HW3\Q1\preorder\obj\Debug\net6.0\preorder.pdb
+C:\Users\USER\Desktop\HW3\Q1\preorder\obj\Debug\net6.0\preorder.genruntimeconfig.cache
+C:\Users\USER\Desktop\HW3\Q1\preorder\obj\Debug\net6.0\ref\preorder.dll
